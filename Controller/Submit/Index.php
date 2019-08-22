@@ -98,7 +98,7 @@ class Index extends \Magento\Framework\App\Action\Action
             } else {
                 $data = [
                     'error' => "true",
-                    'message' => __("One or more paramters missing")
+                    'message' => __("One or more parameters missing")
                 ];
             }
         } else {

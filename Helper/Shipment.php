@@ -7,7 +7,7 @@ use Magento\Framework\App\Helper\AbstractHelper;
 use Magento\Shipping\Model\ShipmentNotifier;
 
 /**
- * AutoShip helper class
+ * Shipment helper class
  */
 class Shipment extends AbstractHelper
 {
