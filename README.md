@@ -18,7 +18,7 @@ Either add tracking to shipment on order via URL or console script
 
 `/xigen_tracking/submit/index?oid=<ORDER_ID>&carrier=<CARRIER_CODE>&title=<CARRIER_TITLE>&number=<TRACKING_NUMBER_OR_URL>`
 
-`/xigen_tracking/submit/index?oid=000000045&carrier=customer&title=Royal%20Mail&number=http://test.com/12345`
+`/xigen_tracking/submit/index?oid=000000045&carrier=custom&title=Royal%20Mail&number=http://test.com/12345`
 
 ## Console script ##
 
