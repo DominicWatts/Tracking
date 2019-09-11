@@ -3,7 +3,7 @@
     <type name="Magento\Framework\Console\CommandList">
         <arguments>
             <argument name="commands" xsi:type="array">
-                <item name="AddTracking" xsi:type="object">Xigen\Tracking\Console\Command\AddTracking</item>
+                <item name="Tracking_AddTracking" xsi:type="object">Xigen\Tracking\Console\Command\AddTracking</item>
             </argument>
         </arguments>
     </type>
